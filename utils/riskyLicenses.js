@@ -1,9 +1,32 @@
 export default [
     "GPL",
+    "GPL-1.0",
+    "GPL-2.0",
+    "GPL-3.0",
     "AGPL",
+    "AGPL-3.0",
     "LGPL",
+    "LGPL-2.0",
+    "LGPL-2.1",
+    "LGPL-3.0",
     "SSPL",
     "CDDL",
-    "MPL"
+    "CDDL-1.0",
+    "CDDL-1.1",
+    "MPL",
+    "MPL-1.0",
+    "MPL-1.1",
+    "MPL-2.0",
+    "EPL",
+    "EPL-1.0",
+    "EPL-2.0",
+    "CPAL",
+    "RPL",
+    "NPL",
+    "JSON",
+    "QPL",
+    "Watcom-1.0",
+    "NGPL",
+    "IBM-PL-1.0"
   ];
   
