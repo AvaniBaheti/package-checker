@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+import { parsePackageJson } from '../lib/parser.js';
+
+const args = process.argv.slice(2); 
+const filePath = args[0] || './package.json'; 
+const deps = parsePackageJson(filePath);
